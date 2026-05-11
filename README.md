@@ -1,4 +1,4 @@
-## Triển khai (Deploy)
+<!-- ## Triển khai (Deploy)
 
 *   **GitHub Pages**: Sử dụng workflow `pages.yml` có sẵn.
 *   **Vercel**: Cách dễ nhất, theo dõi tài liệu của Next.js.
@@ -241,4 +241,4 @@ Nếu anh thấy template này hữu ích, hãy ủng hộ bằng cách tặng m
 
 [MIT]() © [Timothy Lin]()
 
----
+--- -->
